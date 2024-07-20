@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.game {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    padding: 10px;
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
